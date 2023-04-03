@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abhishek R Bhatta</h1>
+<h1 align="center">Hi 👋, I'm Abhishek R Bhat</h1>
 <h3 align="center">Aspiring IT Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
