@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhat61703@gmail.com**
 
-- ⚡ Fun fact **I am an Introvert Physically and an Extrovert Virtually 😂**
+- ⚡ Fun fact **I am an Introvert Physically and an Extrovert Virtually 😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
