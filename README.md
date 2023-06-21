@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
 
-- 🔭 I’m currently working on **Farmer Consumer Management System**
+- 🔭 I’m currently working on **Android ChatGPT MAD Mini Project**
 
-- 🌱 I’m currently learning **JS,PHP,MYSQL**
+- 🌱 I’m currently learning **Advanced Java, Machine Learning and Javascript**
 
 - 💬 Ask me about **C, Java, Python, HTML and CSS**
 
