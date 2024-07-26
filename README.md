@@ -2,15 +2,15 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40">, I'm Abhishek R Bhat</h1>
-<h3 align="center">Passionate IT Undergrad</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
 
-- 🔭 I’m currently working on **Identity Management System using Blockchain Technology**
+- 🔭 I’m currently working on **React and SpringBoot based Project**
 
-- 🌱 I’m currently learning **Java concepts, Blockchain concepts**
+- 🌱 I’m currently learning **Spring Security, React Framework**
 
-- 💬 Ask me about **C, Java, Python, HTML, CSS and SQL**
+- 💬 Ask me about **C, Core Java, Rest API's, Microservices**
 
 - 📫 How to reach me **bhat61703@gmail.com**
 
