@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
 
-- 🔭 I’m currently working on **React and SpringBoot based Project**
+- 🔭 I’m currently working on **Angular and SpringBoot based Project**
 
-- 🌱 I’m currently learning **Spring Security, React Framework**
+- 🌱 I’m currently learning **Spring Security, Angular Framework**
 
 - 💬 Ask me about **C, Core Java, Rest API's, Microservices**
 
